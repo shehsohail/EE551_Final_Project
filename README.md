@@ -29,10 +29,9 @@ To run the application to convert normal photos into cartoon versions, run:
 The application is written to run the function that generates the cartoon version of an image. Four photos of various styles were examined: landscape, portrait, urban, and close-up landscape. Once the algorithm to produce the cartoon is run, each photo is examined one at a time. The original image is first displayed for five seconds and then the corresponding transformed image is shown for five seconds. Thus, a total of eight pictures are displayed.
 
 ## For Generating Photo Mosaics:
-1. Like Pencil-Sketching and Cartoonifying images, certain Python packages are required before running the application. For this application to run successfully the required packages are Pillow, OpenCV, glob, math, and string. As glob, math, and string modules come with the installation of Python, use the command line for installing Pillow and OpenCV:
+1. Like Pencil-Sketching and Cartoonifying images, certain Python packages are required before running the application. For this application to run successfully the required packages are Pillow, glob, math, and string. As glob, math, and string modules come with the installation of Python, use the command line for installing Pillow:
 ```
 - pip install pillow
-- pip install opencv-python
 ```
 
 2. Run MosaicCollage.py:
