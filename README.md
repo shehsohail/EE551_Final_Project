@@ -21,7 +21,7 @@ The application is written to run the function that generates the pencil-sketch.
 3. Run Cartoon.py:
 
 Similar to Pencil-Sketching, in command prompt, navigate to the directory where the script “Cartoon.py” is saved.
-To run the application to convert normal photos into pencil sketches, run:
+To run the application to convert normal photos into cartoon versions, run:
 ```
 - python Cartoon.py
 ```
