@@ -5,11 +5,6 @@ from PIL import Image
 import glob
 from math import *
 import string
-import matplotlib.pyplot as plt
-import time
-
-import cv2
-import numpy
 
 #function for adding two colors together
 def addTwoColors(c1,c2):
