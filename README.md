@@ -46,8 +46,8 @@ To run the application to convert normal photos into photo mosaics, run:
 
 This application generates three photo mosaics of the same skyline master image located in the same directory as the script “MosaicCollage.py”.
 
-The “skyline_mosaic_ 50_[28,21]_tiles.gif” maps 50 tiles of width 28 pixels, height 21 pixels to the master picture. These 50 tiles are located in the directory “gifs50tiles2821”. Similarly, 
-the “skyline_mosaic_300_[28,21]_tiles.gif” maps 300 tiles of width 28 pixels, height 21 pixels to the master picture. These 300 tiles are located in the directory “gifs300tiles2821”. Likewise, the “skyline_mosaic_300_[5,5]_tiles.gif” maps 300 tiles of width 5 pixels, height 5 pixels to the master picture. These 300 tiles are located in the directory “gifs300tiles55”. To size the all tiles to their respective width and heights, the function resize_images(tile_location) was used.
+The “skyline_mosaic__50__[28,21]__tiles.gif” maps 50 tiles of width 28 pixels, height 21 pixels to the master picture. These 50 tiles are located in the directory “gifs50tiles2821”. Similarly, 
+the “skyline_mosaic_300__[28,21]__tiles.gif” maps 300 tiles of width 28 pixels, height 21 pixels to the master picture. These 300 tiles are located in the directory “gifs300tiles2821”. Likewise, the “skyline_mosaic_300__[5,5]__tiles.gif” maps 300 tiles of width 5 pixels, height 5 pixels to the master picture. These 300 tiles are located in the directory “gifs300tiles55”. To size the all tiles to their respective width and heights, the function resize_images(tile_location) was used.
 
 4. Conclusion:
 
@@ -56,6 +56,6 @@ Larger quantity of tiles to select from and smaller tile dimensions resulted in 
 
 ## Video Link:
 ```
-- https://youtu.be/wYukl8D9SaE
+- <https://youtu.be/wYukl8D9SaE>
 ```
 
