@@ -45,7 +45,7 @@ To run the application to convert normal photos into photo mosaics, run:
 
 3. Test Cases:
 
-This application generates three photo mosaics located in the same directory as the script “MosaicCollage.py”.
+This application generates three photo mosaics of the same skyline master image located in the same directory as the script “MosaicCollage.py”.
 
 The “skyline_mosaic_50_[28,21]_tiles.gif” maps 50 tiles of width 28 pixels, height 21 pixels to the master picture. These 50 tiles are located in the directory “gifs50tiles2821”. Similarly, 
 the “skyline_mosaic_300_[28,21]_tiles.gif” maps 300 tiles of width 28 pixels, height 21 pixels to the master picture. These 300 tiles are located in the directory “gifs300tiles2821”. Likewise, the “skyline_mosaic_300_[5,5]_tiles.gif” maps 300 tiles of width 5 pixels, height 5 pixels to the master picture. These 300 tiles are located in the directory “gifs300tiles55”. To size the all tiles to their respective width and heights, the function resize_images(tile_location) was used.
