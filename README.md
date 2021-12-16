@@ -1,5 +1,5 @@
 # Final Project EE551_Engineering Programming_Python
-- Name: Shehpar Sohail & Michael Hodgetts
+- Names: Shehpar Sohail & Michael Hodgetts
 
 ## For Pencil-Sketching/Cartoonifying:
 1. With Pip set up, use the command line for installing the following packages:
