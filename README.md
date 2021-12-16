@@ -55,7 +55,5 @@ Larger quantity of tiles to select from and smaller tile dimensions resulted in 
 
 
 ## Video Link:
-```
 [EE551 Engineering Programming: Python Final Project](https://www.youtube.com/watch?v=wYukl8D9SaE)
-```
 
