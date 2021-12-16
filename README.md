@@ -3,18 +3,18 @@
 
 ## For Pencil-Sketching/Cartoonifying:
 1. With Pip set up, use the command line for installing the following packages:
-'''
+```
 - pip install numpy
 - pip install matplotlib
 - pip install opencv-python
-'''
+```
 2. Run Pencil-Sketching.py:
 
 In command prompt, navigate to the directory where the script “PencilSketching.py” is saved.
 To run the application to convert normal photos into pencil sketches, run:
-'''
+```
 - python PencilSketching.py
-'''
+```
 
 The application is written to run the function that generates the pencil-sketch. Four photos of various styles were examined: landscape, portrait, urban, and close-up landscape. Once the algorithm to produce the pencil-sketch is run, each photo is examined one at a time. The original image is first displayed for five seconds and then the corresponding transformed image is shown for five seconds. Thus, a total of eight pictures are displayed.
 
@@ -22,26 +22,26 @@ The application is written to run the function that generates the pencil-sketch.
 
 Similar to Pencil-Sketching, in command prompt, navigate to the directory where the script “Cartoon.py” is saved.
 To run the application to convert normal photos into pencil sketches, run:
-'''
+```
 - python Cartoon.py
-'''
+```
 
 The application is written to run the function that generates the cartoon version of an image. Four photos of various styles were examined: landscape, portrait, urban, and close-up landscape. Once the algorithm to produce the cartoon is run, each photo is examined one at a time. The original image is first displayed for five seconds and then the corresponding transformed image is shown for five seconds. Thus, a total of eight pictures are displayed.
 
 ## For Generating Photo Mosaics:
 1. Like Pencil-Sketching and Cartoonifying images, certain Python packages are required before running the application. For this application to run successfully the required packages are Pillow, OpenCV, glob, math, and string. As glob, math, and string modules come with the installation of Python, use the command line for installing Pillow and OpenCV:
-'''
+```
 - pip install pillow
 - pip install opencv-python
-'''
+```
 
 2. Run MosaicCollage.py:
 
 In command prompt, navigate to the directory where the script “MosaicCollage.py” is saved.
 To run the application to convert normal photos into photo mosaics, run:
-'''
+```
 - python MosaicCollage.py
-'''
+```
 
 3. Test Cases:
 
